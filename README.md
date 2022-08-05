@@ -1,5 +1,5 @@
 # weather-vue2
-
+Пример лежит в папке example
 ## Project setup
 ```
 npm install
